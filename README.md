@@ -11,18 +11,24 @@ A real-time **Driver Drowsiness Detection** system that uses computer vision (Op
 
 ## 🧩 Project Structure
 📦 driver-drowsiness-detection
+
 ┣ 📜 alarm.wav # Alarm sound
+
 ┣ 📜 main.py # Entry point
+
 ┣ 📜 drowsiness_detector.py # Core detection logic
+
 ┣ 📜 utils.py # Helper functions
+
 ┣ 📜 requirements.txt # Dependencies
+
 ┗ 📜 README.md # Documentation
 
 ## ⚙️ Installation
 
 1️⃣ Clone the repository
-git clone https://github.com/<your-username>/driver-drowsiness-detection.git
-cd driver-drowsiness-detection
+git clone https://github.com/Ravikumar-2016/Traditional-Driver-Drowsiness-Detection-System.git
+cd Driver-Drowsiness-Detection-Traditional
 
 2️⃣ Create and activate a virtual environment
 python -m venv venv

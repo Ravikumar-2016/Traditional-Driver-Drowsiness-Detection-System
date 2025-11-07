@@ -1,4 +1,3 @@
-```markdown
 # 💤 Driver Drowsiness Detection System
 
 A real-time **Driver Drowsiness Detection** system that uses computer vision (**OpenCV + Mediapipe**) to monitor a driver’s eyes and alert them when signs of drowsiness are detected.

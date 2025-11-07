@@ -27,23 +27,31 @@ A real-time **Driver Drowsiness Detection** system that uses computer vision (Op
 ## ⚙️ Installation
 
 1️⃣ Clone the repository
+
 git clone https://github.com/Ravikumar-2016/Traditional-Driver-Drowsiness-Detection-System.git
 cd Driver-Drowsiness-Detection-Traditional
 
 2️⃣ Create and activate a virtual environment
+
 python -m venv venv
+
 # Windows
 venv\Scripts\activate
+
 # macOS/Linux
 source venv/bin/activate
 
 3️⃣ Install dependencies
+
 pip install -r requirements.txt
+
 ▶️ Usage
-Run the program:
+
+Run the program: 
 python main.py
 
-Make sure:
+# Make sure:
+
 Your webcam is connected.
 The program window has access to the camera.
 When drowsiness is detected, an alert sound will play automatically.
